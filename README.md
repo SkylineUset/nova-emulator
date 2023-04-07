@@ -1,4 +1,4 @@
-alt="Nova" width="200"></a>
+
   <br>
   <b>Nova</b>
   <br>
